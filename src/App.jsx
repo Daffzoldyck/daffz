@@ -170,7 +170,7 @@ function App() {
             {/* Kolom kanan */}
 <div className="basis-full md:basis-5/12 flex justify-center items-center p-4">
   <img 
-    src="/portofolio/assets/coding.gif"
+    src="/portofolio/public/assets/coding.gif"
     alt="Profile Gif"
     className="w-64 rounded-xl shadow-lg"
     loading="lazy"
